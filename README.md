@@ -13,3 +13,4 @@
 
 ## Hap List
 * UU远程 基于https://github.com/djkcyl/farwing构建
+* 群晖 Photo 基于公开接口
