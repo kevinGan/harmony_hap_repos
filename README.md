@@ -15,3 +15,4 @@
 * UU远程 基于https://github.com/djkcyl/farwing构建
 * 群晖 Photo 基于公开接口
 * 群晖 Drive 基于公开接口
+* Google Drive 基于公开接口
