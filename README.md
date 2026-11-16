@@ -16,3 +16,4 @@
 * 群晖 Photo 基于公开接口
 * 群晖 Drive 基于公开接口
 * Google Drive 基于公开接口
+* RustDesk 基于开源代码
