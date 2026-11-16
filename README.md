@@ -9,3 +9,7 @@
 一切问题由使用者负责
 
 不提供任何技术帮助，自己研究怎么安装
+
+
+## Hap List
+* UU远程 基于https://github.com/djkcyl/farwing构建
